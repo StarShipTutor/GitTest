@@ -2,7 +2,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StarShipTutor/GitTest/main?labpath=BinderTestNotebook.ipynb)
 
-#%% md
 This project is devided into 6 Jypiter notebooks.
 Each focuses on a different aspect of the data collection, cleaning and preperation followed by the analysis and image production.
 
@@ -20,6 +19,3 @@ The data files can be found in the Data folder.
 The genrated image files can be found in the Image folder.
 
 A number of test and intermediate notebooks can be found in the Archive_Notebooks folder
-
-
-#%%
